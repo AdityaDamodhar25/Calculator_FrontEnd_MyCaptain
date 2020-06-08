@@ -64,7 +64,7 @@
                 android:layout_width="0dp"
                 android:layout_height="80dp"
                 android:layout_weight="1"
-                android:background="@drawable/ripple_effect_number"
+                android:background="@drawable/ripple_effect_operation"
                 android:text="+/-"
                 android:textColor="#D5D5D5"
                 android:textSize="25sp"/>
@@ -74,7 +74,7 @@
                 android:layout_width="0dp"
                 android:layout_height="80dp"
                 android:layout_weight="1"
-                android:background="@drawable/ripple_effect_number"
+                android:background="@drawable/ripple_effect_operation"
                 android:text="()"
                 android:textColor="#D5D5D5"
                 android:textSize="25sp"/>
@@ -84,7 +84,7 @@
                 android:layout_width="0dp"
                 android:layout_height="80dp"
                 android:layout_weight="1"
-                android:background="@drawable/ripple_effect_number"
+                android:background="@drawable/ripple_effect_operation"
                 android:text="%"
                 android:textColor="#D5D5D5"
                 android:textSize="25sp"/>
@@ -260,7 +260,7 @@
                 android:layout_width="0dp"
                 android:layout_height="80dp"
                 android:layout_weight="1"
-                android:background="@drawable/ripple_effect_number"
+                android:background="@drawable/equal_button"
                 android:text="C"
                 android:textColor="#D5D5D5"
                 android:textSize="25sp"/>
